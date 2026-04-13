@@ -2,7 +2,7 @@
 layout: page
 title: Sewing
 description: Placeholder entry to showcase sewing work.
-img: assets/img/1.jpg
+img: assets/img/sewing.jpg
 importance: 1
 category: sewing
 ---

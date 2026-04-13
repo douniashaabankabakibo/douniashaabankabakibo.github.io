@@ -27,6 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+� This site is currently under construction. In true Montreal fashion, it may take a while.
 
 I've always been deeply curious. With a knack for detail and a relentless habit of not letting go of a problem until it is solved, physics felt like a natural fit for me to understand the world at its most fundamental level.
 

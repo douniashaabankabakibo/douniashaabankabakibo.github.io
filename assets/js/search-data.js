@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-art",
-          title: "Art",
+          title: "art",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {

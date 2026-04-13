@@ -7,4 +7,4 @@ importance: 1
 category: creative writing
 ---
 
-This is a placeholder card for Creative writing. I will add portfolio pieces here.
+In my writing, I like to explore the beauty of dwelling along the fine line between wakefulness and dream, the real and the imagined, the extraordinary and the mundane. More to come soon :)

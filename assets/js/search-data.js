@@ -498,7 +498,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-creative-writing",
           title: 'Creative writing',
-          description: "Placeholder entry to showcase writing work.",
+          description: "Credit photo : Joseph D. Viviano @ Mila talent show 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/creative-writing/";
             },},{id: "projects-sewing",

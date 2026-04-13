@@ -37,7 +37,7 @@ My path through research has been anything but linear — from an internship in 
 
 Good science communication is central to how I think about my role as a researcher, especially in an era of widespread misinformation. Recent highlights include first place (and the audience prize) at [Mila's 2024 Science Communication Contest](https://mila.quebec/en/news/congratulations-to-the-winners-and-finalists-of-milas-first-science-communication-contest)), a feature in [UdeMNouvelles](https://nouvelles.umontreal.ca/article/2025/01/13/dounia-shaaban-kabakibo-la-recherche-fondamentale-au-service-du-tres-concret), and an appearance on Radio-Canada's [Moteur de recherche](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/952105/rattrapage-du-2-avr-2025-les-neuf-limites-ecologiques-et-brasse-camarade-dans-la-ruche).
 
-Beyond the lab, I'm an elected student representative at Mila, whose role is to empower, represent, and support students. I'm also a co-organizer of the 2024 and 2025 editions of the RQÉMP summer school.
+Beyond the lab, I'm an elected student representative at Mila, whose role is to empower, represent, and support students. I'm also a co-organizer of the [2025](https://rqmp.ca/en/event/rqemp-summer-school/) and 2026(coming this summer!) editions of the RQÉMP summer school.
 
 Outside academia, I'm a lifelong arts lover, from needlework, creative writing to music.
 

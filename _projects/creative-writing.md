@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creative writing
-description: Placeholder entry to showcase writing work.
+description: "Credit photo : Joseph D. Viviano @ Mila talent show 2026"
 img: assets/img/creative-writing-2026.jpg
 importance: 1
 category: creative writing

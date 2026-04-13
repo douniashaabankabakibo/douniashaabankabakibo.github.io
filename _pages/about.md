@@ -42,6 +42,6 @@ Outside academia, I'm a lifelong arts lover, from needlework, creative writing t
 
 I speak English, French, Arabic (y un poco de Espagnol, wanna share a Duolingo friend quest?). 
 
-Feel free to reach out through dounia@umontreal.ca!
+Feel free to reach out through dounia.shaaban.kabakibo *at* umontreal.ca!
 
 <p><small>Credit photo: Joseph D. Viviano</small></p>

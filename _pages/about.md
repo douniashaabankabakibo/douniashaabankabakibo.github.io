@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dounia Shaaban Kabakibo</p>
-    <p>6666 Rue Saint Urbain Montreal,</p>
-    <p>Quebec Canada,</p>
-    <p>H2S 3H1</p>
+    <p>1375 Ave. Thérèse-Lavoie-Roux, Montréal,</p>
+    <p>Québec Canada,</p>
+    <p>H2V 0B3</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
